@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignalsFromMarsDesc">Signals from Mars Image</string>
+    <string name="StartAdventureButtonText">START YOUR NEW ADVENTURE!</string>
+    <string name="MainEditTextHint">Type your name to begin</string>
+</resources>
