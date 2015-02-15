@@ -2,7 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@android:color/white">
 
     <ImageView
         android:id="@+id/imageView"
@@ -30,6 +31,7 @@
         android:maxLength="30" />
 
     <Button
+        style="@style/WhiteButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/StartAdventureButtonText"

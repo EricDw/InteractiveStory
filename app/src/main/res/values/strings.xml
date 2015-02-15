@@ -6,4 +6,10 @@
     <string name="SignalsFromMarsDesc">Signals from Mars Image</string>
     <string name="StartAdventureButtonText">START YOUR NEW ADVENTURE!</string>
     <string name="MainEditTextHint">Type your name to begin</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">Friend</string>
+    <string name="default_story_text">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
+    <string name="choice_button1_text">Stop and investigate</string>
+    <string name="choice_button2_text">Continue home to Earth</string>
+    <string name="play_again">PLAY AGAIN!</string>
 </resources>

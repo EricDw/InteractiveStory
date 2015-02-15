@@ -5,6 +5,7 @@
     <mapping directory="E:/Git Repos" vcs="Git" />
     <mapping directory="E:/Git Repos/InteractiveStory" vcs="Git" />
     <mapping directory="E:/Git Repos/InteractiveStory/InteractiveStory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
 
